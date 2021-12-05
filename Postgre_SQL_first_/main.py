@@ -1,7 +1,7 @@
 import pymysql
 from config import host, password, user, db_name
 
-
+# =)
 # connect to base: create object pymysql
 try:
     connection = pymysql.connect(
