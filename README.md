@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...  Python ,DevOps  engineering
 - 🌱 I’m currently learning ... Python,  Linux(UNIX), OOP, AWS
 - 💞️ I’m looking to collaborate on ... Cybersecurity
-- 📫 How to reach me ... Easy
+- 📫 How to reach me ... devops@ava-it.ru
 
 
 <!---
